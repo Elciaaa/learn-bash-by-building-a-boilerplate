@@ -296,3 +296,15 @@ find
 mkdir client
 mkdir client/src
 mv index.html client/src
+find
+find
+find
+find
+cd /workspace/project/website
+find
+find
+ls --color=auto
+find
+mv index.html client/src
+ls --color=auto
+find
