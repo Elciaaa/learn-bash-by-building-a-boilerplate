@@ -82,3 +82,14 @@ ls --color=auto
 cd node_modules
 ls --color=auto
 cd has
+cd node_modules
+cd
+cd more index.js
+cd /workspace/project/freeCodeCamp/node_modules/has/src
+cd node_modules
+ls --color=auto
+cd index.js
+cd
+cd /workspace/project/freeCodeCamp/node_modules/has/src
+ls --color=auto
+cd /workspace/project/freeCodeCamp/node_modules
