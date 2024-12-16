@@ -104,3 +104,5 @@ change directory
 cd website
 ls --color=auto
 echo hello website
+ls --color=auto
+touch index.html
