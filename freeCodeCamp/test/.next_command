@@ -173,3 +173,18 @@ mkdir images
 lsl
 ls --color=auto
 ls --color=auto
+clear
+cp background.jpg images
+ls --color=auto
+delete images
+delete images
+mkdir --help
+ls --color=auto
+more images
+ls --color=auto
+ls]
+rm images
+ls --color=auto
+mkdir images
+ls --color=auto
+cp background.jpg images
