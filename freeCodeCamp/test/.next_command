@@ -93,3 +93,5 @@ cd
 cd /workspace/project/freeCodeCamp/node_modules/has/src
 ls --color=auto
 cd /workspace/project/freeCodeCamp/node_modules
+clear
+cd ../..
