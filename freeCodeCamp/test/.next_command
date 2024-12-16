@@ -290,3 +290,4 @@ mv roboto.woff fonts
 find website
 find /website
 find
+mv lato.ttf fonts
