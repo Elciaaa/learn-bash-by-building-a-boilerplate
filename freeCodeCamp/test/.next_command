@@ -285,3 +285,4 @@ ls --color=auto
 rm font
 delete font
 mkdir fonts
+ls --color=auto
