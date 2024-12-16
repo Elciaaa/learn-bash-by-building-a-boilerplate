@@ -60,3 +60,4 @@ clear
 README.md
 more README.md
 ls --color=auto
+more LICENSE-MIT
