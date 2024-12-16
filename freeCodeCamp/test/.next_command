@@ -443,3 +443,14 @@ mv freeCodeCamp.svg clietn/assets/icons
 ls --color=auto
 mv freeCodeCamp.svg client/assets/icons
 find
+mkdir client/assets/icons/fonts
+cd icons
+cd client
+ls --color=auto
+cd assets
+ls --color=auto
+cd icons
+ls --color=auto
+cd /workspace/project/website
+mkdir clinet/assets/fonts
+mkdir client/assets/fonts
