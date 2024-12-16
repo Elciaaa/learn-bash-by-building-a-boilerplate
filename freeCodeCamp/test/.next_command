@@ -280,3 +280,8 @@ mv mwnlo.font mwnlo.otf
 mv mwnlo.font menlo.otf
 mv menlo.font menlo.otf
 ls --color=auto
+mkdir font
+ls --color=auto
+rm font
+delete font
+mkdir fonts
