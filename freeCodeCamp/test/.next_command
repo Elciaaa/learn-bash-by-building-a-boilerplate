@@ -41,3 +41,4 @@ pwd
 clear
 pwd
 ls --color=auto
+cd test
