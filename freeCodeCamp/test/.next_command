@@ -153,3 +153,4 @@ ls --color=auto -all
 ls --color=auto -a
 cd website
 ls --color=auto -a
+cd .
