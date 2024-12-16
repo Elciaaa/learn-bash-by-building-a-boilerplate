@@ -220,3 +220,6 @@ cd website
 ls --color=auto
 rm background.jpg
 ls --color=auto
+ls --color=auto
+cp header.jpg images
+cp header.png images
