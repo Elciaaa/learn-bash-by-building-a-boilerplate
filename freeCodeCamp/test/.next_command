@@ -380,3 +380,4 @@ ls --color=auto
 mv header.jpg header.png
 ls --color=auto
 mv header.png ..
+ls --color=auto
