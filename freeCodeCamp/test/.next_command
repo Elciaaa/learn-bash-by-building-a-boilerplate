@@ -192,3 +192,28 @@ clear
 ls --color=auto
 cd images
 ls --color=auto
+cd .
+cd /
+pwd
+ls --color=auto
+cd workspace
+ls --color=auto
+cd project
+ls --color=auto
+cd freeCodeCamp
+ls --color=auto
+cd website
+cd node_modules
+ls --color=auto
+cd
+ls --color=auto
+__vsc_prompt_cmd_original
+ls --color=auto
+pwd
+ls --color=auto
+ls --color=auto -all
+cd /workspace
+ls --color=auto
+cd project
+ls --color=auto
+cd website
