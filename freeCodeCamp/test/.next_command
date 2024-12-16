@@ -458,3 +458,4 @@ touch client/assets/fonts/roboto-blod.woof
 touch client/assets/fonts/roboto-bold.woof
 touch client/assets/fonts/roboto-bold.woff
 touch client/assets/fonts/roboto-light.woff
+find client/assets/fonts
