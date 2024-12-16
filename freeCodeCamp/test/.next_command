@@ -102,3 +102,4 @@ ls --color=auto
 change website
 change directory
 cd website
+ls --color=auto
