@@ -399,3 +399,12 @@ mv ./images/footer/jpeg ./client/assets/images
 mv ./images/footer.jpeg ./client/assets/images
 find
 rmdir images
+find -name images
+find -name background
+ls --color=auto
+more images
+cd images
+ls --color=auto
+cd ..
+rm ./background.jpg/images
+rm ./images/background.jpg
