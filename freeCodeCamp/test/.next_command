@@ -226,3 +226,44 @@ cp header.png images
 cp footer.jpeg images
 cd images
 ls --color=auto
+cd website
+cd
+cd website
+cd
+cd /website
+ls --color=auto
+ls --color=auto /workspace
+cd /workspace
+cd project
+cd freecodecamp
+ls --color=auto
+cd freeCodeCamp
+ls --color=auto
+cd /workspace
+ls --color=auto
+cd /project
+cd project
+cd freeCodeCamp
+ls --color=auto
+ls --color=auto node_modules
+cd website
+cd /website
+cd project
+cd .
+ls --color=auto
+cd .
+cd
+ls --color=auto
+ls --color=auto -a
+cd -all
+cd -l
+ls --color=auto -l
+ls --color=auto -all
+cd workspace
+cd /workspace
+cd /project
+cd /workspace
+ls --color=auto
+cd project
+ls --color=auto
+cd website
