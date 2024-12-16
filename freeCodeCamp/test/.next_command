@@ -99,3 +99,6 @@ ls --color=auto
 clear
 mkdir website
 ls --color=auto
+change website
+change directory
+cd website
